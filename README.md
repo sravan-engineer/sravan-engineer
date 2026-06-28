@@ -1,24 +1,19 @@
 # Hi, I'm Sravan Kumar 👋
 
-## Embedded Systems | IoT | Electronics Engineering Student
+## Embedded Systems | IoT | AI Enthusiast | Aspiring Entrepreneur
 
-I am passionate about Embedded Systems, IoT, and Electronics. I enjoy designing hardware-software solutions using Arduino, Embedded C, C++, and Python while continuously learning modern embedded technologies.
+I am passionate about Embedded Systems, IoT, and Electronics. I enjoy building real-world hardware-software systems and turning ideas into impactful products.
 
 ## About Me
 
 * 🎓 B.Tech Engineering Student
-* 💻 Interested in Embedded Systems and Firmware Development
-* 🌱 Currently learning ARM Microcontrollers, RTOS, Embedded Linux, and PCB Design
+* 💻  Currently working on Embedded Systems & IoT projects
+* 🌱 Exploring AI/ML integration with hardware
 * 🚀 Building real-world embedded projects
-* 🎯 Goal: Become an Embedded Software Engineer
+* 🏆 3× Silver Medalist & 1× Bronze Medalist in Badminton (Zonal Level)
+* 🎯 Goal: Build innovative tech solutions that solve real-world problems
 
 ## Technical Skills
-
-### Programming Languages
-
-* C
-* C++
-* Python
 
 ### Embedded Technologies
 
@@ -48,13 +43,10 @@ Arduino-based PIR sensor project that detects motion and triggers alerts.
 
 Monitors environmental temperature using Arduino and displays real-time readings.
 
-## Currently Learning
+## Certifications
 
-* ARM Cortex-M
-* RTOS
-* Embedded Linux
-* PCB Design
-* Device Drivers
+* 🏅 VLSI and Embedded System Design — L&T Edutech
+* 📄 STEP Certificate — Score: 8.5 / 12
 
 ## Connect With Me
 
