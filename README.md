@@ -1,6 +1,6 @@
 # Hi, I'm Sravan Kumar 👋
 
-## Embedded Systems | IoT | AI Enthusiast | Aspiring Entrepreneur
+## Embedded Systems | IoT | AI Enthusiast | Aspiring Innovator 
 
 I am passionate about Embedded Systems, IoT, and Electronics. I enjoy building real-world hardware-software systems and turning ideas into impactful products.
 
